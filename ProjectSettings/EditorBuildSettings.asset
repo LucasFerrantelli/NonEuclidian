@@ -9,10 +9,10 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Regroup.unity
+    path: Assets/Scenes/OldWrong/Regroup.unity
     guid: aa5bc54eeaf6977449755a220c68fd00
   - enabled: 1
-    path: Assets/Scenes/TunnelLongCourt(2scenes).unity
+    path: Assets/Scenes/NoMansHouse.unity
     guid: 3c3590e97e35d7f499c5aea4ce638723
   - enabled: 1
     path: Assets/Scenes/NonEuclidianLabyrinth.unity
